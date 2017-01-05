@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6069" started-at="2014-05-27T13:32:10Z" finished-at="2014-05-27T13:32:16Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6069" started-at="2014-05-27T13:32:10Z" finished-at="2014-05-27T13:32:16Z">
+      <class name="com.psi.testng.EmployeeDBPageTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.psi.testng.EmployeeDBPageTest@4421ab]" name="beforeMethod" is-config="true" duration-ms="328" started-at="2014-05-27T19:02:10Z" finished-at="2014-05-27T19:02:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testEmpDtls()[pri:0, instance:com.psi.testng.EmployeeDBPageTest@4421ab]" name="testEmpDtls" duration-ms="2713" started-at="2014-05-27T19:02:10Z" finished-at="2014-05-27T19:02:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEmpDtls -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.psi.testng.EmployeeDBPageTest@4421ab]" name="afterMethod" is-config="true" duration-ms="3001" started-at="2014-05-27T19:02:13Z" finished-at="2014-05-27T19:02:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.psi.testng.EmployeeDBPageTest@4421ab]" name="afterTest" is-config="true" duration-ms="4" started-at="2014-05-27T19:02:16Z" finished-at="2014-05-27T19:02:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.psi.testng.EmployeeDBPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
