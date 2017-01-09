@@ -206,6 +206,19 @@
 							<goal>deploy</goal>
 						</goals>
 					</execution>
+					<execution>
+						<id>jacoco-initialize</id>
+    						<goals>
+      						<goal>prepare-agent</goal>
+    						</goals>
+  					</execution>
+					<execution>
+						<id>jacoco-site</id>
+						<phase>package</phase>
+						<goals>
+							<goal>report</goal>
+ 						</goals>
+  					</execution>
 				</executions>
 			</plugin>
 
