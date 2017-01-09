@@ -190,6 +190,10 @@
 				<artifactId>jacoco-maven-plugin</artifactId>
 				<groupId>org.jacoco</groupId>
 				<version>0.7.4.201502262128</version>
+				<configuration>
+   					<destFile>D:/Vodafone/POC/Jenkins_workspace/target/jacoco-unit.exec</destFile>
+   					<dataFile>D:/Vodafone/POC/Jenkins_workspace/target/jacoco-unit.exec</dataFile>
+  				</configuration>
 			</plugin>
 			<plugin>
 				<artifactId>maven-deploy-plugin</artifactId>
