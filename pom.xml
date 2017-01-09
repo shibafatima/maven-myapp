@@ -146,6 +146,12 @@
 			<artifactId>postgresql</artifactId>
 			<version>9.0-801.jdbc4</version>
 		</dependency>
+<!-- https://mvnrepository.com/artifact/org.codehaus.sonar/sonar-maven-plugin -->
+		<dependency>
+			<groupId>org.codehaus.sonar</groupId>
+    			<artifactId>sonar-maven-plugin</artifactId>
+    			<version>3.7</version>
+		</dependency>
 
 
 	</dependencies>
