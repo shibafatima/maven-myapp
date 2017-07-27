@@ -95,7 +95,13 @@
 			<artifactId>jstl</artifactId>
 			<version>1.1.2</version>
 		</dependency>
-
+		
+		
+		<dependency>
+			<groupId>org.codehaus.mojo</groupId>   
+			<artifactId>versions-maven-plugin</artifactId>   
+			<version>2.4</version>  
+		</dependency>
 
 		<dependency>
 			<groupId>junit</groupId>
