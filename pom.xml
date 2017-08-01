@@ -160,6 +160,12 @@
 
 
 	</dependencies>
+	 <scm>
+        <connection>scm:svn:https://github.com/goyal2283/maven-myapp</connection>
+        <developerConnection>https://github.com/goyal2283/maven-myapp</developerConnection>
+        <tag>HEAD</tag>
+        <url>https://github.com/goyal2283/maven-myapp</url>
+    </scm>
 	<build>
 
 		<plugins>
