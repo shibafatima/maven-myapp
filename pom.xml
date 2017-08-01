@@ -7,7 +7,11 @@
 	<version>0.0.6</version>
 	<name>MyApp Maven Webapp</name>
 	<url>http://maven.apache.org</url>
-	
+	<scm>
+   <connection>scm:git:git://github.com/jenkinsci/stashnotifier-plugin.git</connection>
+   <developerConnection>scm:git:git@github.com:jenkinsci/stashnotifier-plugin.git</developerConnection>
+   <url>https://github.com/goyal2283/maven-myapp</url>
+</scm>
 
 	<distributionManagement>
 
