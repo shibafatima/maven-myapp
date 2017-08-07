@@ -1,2 +1,0 @@
-# maven-myapp
-test app
