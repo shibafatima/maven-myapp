@@ -17,7 +17,7 @@
 <p class="remember_me">    
 <label>
 <input type="checkbox" name="remember_me" id="remember_me"> 
-Remember me on this computer 
+Remember me on this computer ... Done..!!!
 </label>
 </p>  
 <p class="submit">
